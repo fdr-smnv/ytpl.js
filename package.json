@@ -1,0 +1,15 @@
+{
+  "name": "ytdl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "minimist": "^1.2.0",
+    "ytdl-core": "^1.0.0"
+  },
+  "devDependencies": {
+    "googleapis": "^43.0.0"
+  }
+}
